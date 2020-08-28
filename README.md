@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 # scripts
+These scripts are meant to be used with my qtile configuration to add some utilities to my workflow.
 ## Dependencies
 rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsyncer, dmenu,  urxvt
 ## Install
@@ -14,4 +14,4 @@ rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsync
 ![Screenshot2](screens/2020-08-23-114513_1920x1080_scrot.jpg)
 ![Screenshot3](screens/2020-08-23-114545_1920x1080_scrot.jpg)
 ## Special Thanks
-Thank you Cramer Marius for your [rofi-scripts](https://github.com/cramermarius/rofi-menus) repo  
+Thank you Cramer Marius for your [rofi-scripts](https://github.com/cramermarius/rofi-menus) repo. 
