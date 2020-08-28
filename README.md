@@ -1,7 +1,7 @@
 # scripts
 These scripts are meant to be used with my [Qtile configuration](https://github.com/DioptricDesign/Qtile-Config) to add some utilities to my workflow.
 ## Dependencies
-rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsyncer, dmenu,  urxvt
+rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsyncer, dmenu,  urxvt, pywal
 ## Install
 ` git clone https://github.com/DioptricDesign/scripts/`<br> 
 `cd /scripts `\
