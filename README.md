@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # scripts
 ## Dependencies
-rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsyncer, dmenu
+rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsyncer, dmenu,  urxvt
 ## Install
 ` git clone https://github.com/DioptricDesign/scripts/`\ 
 `cd /scripts `\
@@ -15,7 +15,3 @@ rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsync
 ![Screenshot3](screens/2020-08-23-114545_1920x1080_scrot.jpg)
 ## Special Thanks
 Thank you Cramer Marius for your [rofi-scripts](https://github.com/cramermarius/rofi-menus) repo  
-=======
-# Qtile-Config
-A feature rich qtile config
->>>>>>> b072f9799e13e881fb73ea80719c4c8812db01af
