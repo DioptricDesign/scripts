@@ -8,7 +8,7 @@ rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsync
 ` chmod + x /bin/* `\
 ` sudo cp /bin/* /usr/local/bin `\
 ` mkdir ~/.local/share/scripts ` \
-` cp *.sh ~/.local/share/scripts `\
+` cp *.sh ~/.local/share/scripts `
 ## Screen Shots 
 ![Screenshot1](screens/2020-08-23-114456_1920x1080_scrot.jpg)
 ![Screenshot2](screens/2020-08-23-114513_1920x1080_scrot.jpg)
