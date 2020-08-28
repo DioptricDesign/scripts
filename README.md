@@ -4,9 +4,9 @@ These scripts are meant to be used with my [Qtile configuration](https://github.
 rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsyncer, dmenu,  urxvt, pywal
 ## Install
 ` git clone https://github.com/DioptricDesign/scripts/`<br> 
-`cd /scripts `\
-` chmod + x /bin/* `\
-` sudo cp /bin/* /usr/local/bin `\
+` cd /scripts `\
+` chmod + x bin/* `\
+` sudo cp bin/* /usr/local/bin `\
 ` mkdir ~/.local/share/scripts ` \
 ` cp *.sh ~/.local/share/scripts `
 ## Screen Shots 
