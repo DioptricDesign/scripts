@@ -1,6 +1,6 @@
 # scripts
 ## Dependencies
-rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsyncer, dmenu
+rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsyncer, dmenu,  urxvt
 ## Install
 ` git clone https://github.com/DioptricDesign/scripts/ 
 cd /scripts `
