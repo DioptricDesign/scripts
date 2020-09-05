@@ -14,7 +14,7 @@ rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsync
 >wallpaper [Simon Stålenhag](https://www.simonstalenhag.se/)
 
 ![Screenshot2](screens/2020-08-23-114513_1920x1080_scrot.jpg)
->wallpaper [Patrik Göthe] (https://unsplash.com/photos/xiTFENI0dMY)
+>wallpaper [Patrik Göthe](https://unsplash.com/photos/xiTFENI0dMY)
 
 ![Screenshot3](screens/2020-08-23-114545_1920x1080_scrot.jpg)
 >wallpaper [Hendrik Kespohl](https://unsplash.com/photos/2vlCKayU1e4)
