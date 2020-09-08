@@ -1,9 +1,12 @@
-# scripts
-These scripts are meant to be used with my [Qtile configuration](https://github.com/DioptricDesign/qtile-chameleon) to add some utilities to my workflow.
+# Scripts
+Utility scripts for the [qtile-chameleon](https://github.com/DioptricDesign/qtile-chameleon) project. 
+## More information
+For more information about this project check the [blog post.](https://wp.me/p8j8Cr-qe) 
+
 ## Dependencies
 rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsyncer, dmenu,  urxvt, pywal
 ## Install
-` git clone https://github.com/DioptricDesign/scripts/`<br> 
+` git clone https://github.com/DioptricDesign/scripts.git`<br> 
 ` cd /scripts `\
 ` chmod + x bin/* `\
 ` sudo cp bin/* /usr/local/bin `\
@@ -19,4 +22,4 @@ rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsync
 ![Screenshot3](screens/2020-08-23-114545_1920x1080_scrot.jpg)
 >wallpaper [Hendrik Kespohl](https://unsplash.com/photos/2vlCKayU1e4)
 ## Special Thanks
-Thank you Cramer Marius for your [rofi-scripts](https://github.com/cramermarius/rofi-menus) repo. 
+Thank you Cramer Marius for your [rofi-scripts](https://github.com/cramermarius/rofi-menus) repository. 
