@@ -13,7 +13,7 @@ options="$option0\n$option1\n$option2\n$option3\n$option4"
 chosen="$(echo -e "$options" | rofi -lines 5 -dmenu -p "Power")"
 case $chosen in
     $option0)
-        i3lock -i  ~/Pictures/Wallpapers/Spruce/wallhaven-yj2zjk.png;;
+        i3lock -c "lock";;
     $option1)
         qtile-cmd -o cmd -f shutdown & ;;
     $option2)
