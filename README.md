@@ -8,7 +8,7 @@ rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsync
 ## Install
 ` git clone https://github.com/DioptricDesign/scripts.git`<br> 
 ` cd /scripts `\
-` chmod + x bin/* `\
+` chmod +x bin/* `\
 ` sudo cp bin/* /usr/local/bin `\
 ` mkdir ~/.local/share/scripts ` \
 ` cp *.sh ~/.local/share/scripts `

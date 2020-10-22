@@ -10,7 +10,7 @@ options="$option0\n$option1"
 selected="$(echo -e "$options" | rofi -lines 2 -dmenu -p "Autolock")"
 case $selected in
     $option0)
-      xautolock -time 5 -locker "i3lock -c 000000" & notify-send 'Screen Lock Enabled' 'Locking When idle 5 minutes';;
+      xautolock -time 5 -locker "lock" & notify-send 'Screen Lock Enabled' 'Locking When idle 5 minutes';;
     $option1)
       xautolock -exit & notify-send 'Screen Lock Disabled' 'Remember to lock it yourself.';;
 esac
