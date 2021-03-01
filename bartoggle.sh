@@ -1,2 +1,2 @@
 #!/bin/bash
-qtile-cmd -o cmd -f hide_show_bar 
+qtile cmd-obj -o cmd -f hide_show_bar 
