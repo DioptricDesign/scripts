@@ -15,7 +15,7 @@ case $chosen in
     $option0)
         lock;;
     $option1)
-        qtile-cmd -o cmd -f shutdown & ;;
+        qtile cmd-obj -o cmd -f shutdown & ;;
     $option2)
         systemctl suspend;;
     $option3)
