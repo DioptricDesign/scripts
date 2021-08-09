@@ -7,7 +7,7 @@ For more information about this project check the [blog post.](https://wp.me/p8j
 rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsyncer, dmenu,  urxvt, pywal
 ## Install
 ` git clone https://github.com/DioptricDesign/scripts.git`<br> 
-` cd /scripts `\
+` cd scripts/ `\
 ` chmod +x bin/* `\
 ` sudo cp bin/* /usr/local/bin `\
 ` mkdir ~/.local/share/scripts ` \
