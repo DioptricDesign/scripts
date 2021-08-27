@@ -1,0 +1,46 @@
+!  __   __   _       __            _ _       
+!  \ \ / /  | |     / _|          | | |      
+!   \ V / __| | ___| |_ __ _ _   _| | |_ ___ 
+!    > < / _` |/ _ \  _/ _` | | | | | __/ __|
+! _ / . \ (_| |  __/ || (_| | |_| | | |_\__ \
+!(_)_/ \_\__,_|\___|_| \__,_|\__,_|_|\__|___/
+
+ *background: #282828
+ *foreground: #ffffff
+ *color0:     #000000
+ *color1:     #cc241d
+ *color2:     #8FBCBB
+ *color3:     #e7e18c
+ *color4:     #7a7ab0
+ *color5:     #963c59
+ *color6:     #418179
+ *color7:     #bebebe
+ *color8:     #666666
+ *color9:     #fb4934
+ *color10:    #a3be8c
+ *color11:    #fff796
+ *color12:    #4186be
+ *color13:    #ef9ebe
+ *color14:    #71bebe
+ *color15:    #ffffff
+
+!rxvt Unicode
+URxvt.letterSpace:1
+URxvt.font: xft:Monospace :size=12
+URxvt.perl-ext-common:default,matcher,resize-font,bell-command,
+URxvt.clipboard.autocopy: true
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+URxvt.scrollBar: false
+URxvt*scrollBar_right:true
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+URxvt.internalBorder: 15
+URxvt.cursorBlink: 1
+URxvt*geometry: 70x17
+URxvt.urgentOnBell: True
+urxvt*depth: 32
+URxvt*foreground: rgb:F4/F4/B9
+URxvt*cursorColor: #7a7ab0
+URxvt.keysym.CTRL++:  resize-font:smaller
+URxvt.keysym.CTRL+-:    resize-font:bigger
