@@ -1,3 +1,2 @@
  #!/bin/bash 
-notify-send -t 5000 "Hotkeys" "$(sed -n 38,116p  ~/.config/qtile/config.py
-)"
+zenity --list --title="Hotkeys" --column="Hotkeys" "$(sed -n 53,141p  ~/.config/qtile/config.py)" --no-markup --height=800 --width=600
