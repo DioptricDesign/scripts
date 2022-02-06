@@ -15,6 +15,7 @@ rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsync
 ` sudo cp bin/* /usr/local/bin `\
 ` mkdir ~/.local/share/scripts ` \
 ` cp *.sh ~/.local/share/scripts `
-
+## Screenshots
+![screenshots](https://github.com/DioptricDesign/scripts/blob/master/screens/scripts.gif)
 ## Special Thanks
 [Cramer Marius](https://github.com/cramermarius) for [rofi-scripts](https://github.com/cramermarius/rofi-menus) 
