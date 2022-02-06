@@ -1,4 +1,5 @@
 # Scripts
+![scripts](https://github.com/DioptricDesign/scripts/blob/master/screens/scripts.png)\
 Utility scripts for the [qtile-chameleon](https://github.com/DioptricDesign/qtile-chameleon) project. 
 ## More information
 For more information about this project check the [blog post.](https://wp.me/p8j8Cr-qe) 
