@@ -1,8 +1,10 @@
 # Scripts
 ![scripts](https://github.com/DioptricDesign/scripts/blob/master/screens/scripts.png)\
-Utility scripts for the [qtile-chameleon](https://github.com/DioptricDesign/qtile-chameleon) project. 
-## More information
-For more information about this project check the [blog post.](https://wp.me/p8j8Cr-qe) 
+Utility scripts for the [qtile-chameleon](https://github.com/DioptricDesign/qtile-chameleon) project. Mostly rofi and dmenu scripts.
+## More Information
+For more information about this project check out the blog posts. \
+[Qtile Chameleon](https://wp.me/p8j8Cr-qe)\
+[Qtile Chameleon Update](https://www.dioptricdesign.com/2021/08/20/qtile-chameleon-update/)
 
 ## Dependencies
 rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsyncer, dmenu,  urxvt, pywal
@@ -13,14 +15,6 @@ rofi, qtile, i3lock, pacmd, lmsensors, xautolock, compton, scrot, khal, vdirsync
 ` sudo cp bin/* /usr/local/bin `\
 ` mkdir ~/.local/share/scripts ` \
 ` cp *.sh ~/.local/share/scripts `
-## Screen Shots 
-![Screenshot1](screens/2020-08-23-114456_1920x1080_scrot.jpg)
->wallpaper [Simon Stålenhag](https://www.simonstalenhag.se/)
 
-![Screenshot2](screens/2020-08-23-114513_1920x1080_scrot.jpg)
->wallpaper [Patrik Göthe](https://unsplash.com/photos/xiTFENI0dMY)
-
-![Screenshot3](screens/2020-08-23-114545_1920x1080_scrot.jpg)
->wallpaper [Hendrik Kespohl](https://unsplash.com/photos/2vlCKayU1e4)
 ## Special Thanks
-Thank you Cramer Marius for your [rofi-scripts](https://github.com/cramermarius/rofi-menus) repository. 
+[Cramer Marius](https://github.com/cramermarius) for [rofi-scripts](https://github.com/cramermarius/rofi-menus) 
