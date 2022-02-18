@@ -7,7 +7,7 @@ option1="Off"
 # options to be displyed
 options="$option0\n$option1"
 
-selected="$(echo -e "$options" | rofi -lines 2 -dmenu -p "Compton")"
+selected="$(echo -e "$options" | rofi -lines 2 -width 30 -dmenu -p " Picom")"
 case $selected in
     $option0)
         compton --experimental-backends  & notify-send 'Woah Buddy.' 'Compositing on!' ;;
