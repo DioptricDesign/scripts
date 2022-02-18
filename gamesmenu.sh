@@ -9,7 +9,7 @@ option3="Retro Arch"
 # options to be displyed
 options="$option0\n$option1\n$option2\n$option3"
 
-selected="$(echo -e "$options" | rofi -lines 4 -dmenu -p "Games")"
+selected="$(echo -e "$options" | rofi -lines 2 -columns 2 -width 20 -dmenu -p " Games")"
 case $selected in
     $option0)
         steam;;
