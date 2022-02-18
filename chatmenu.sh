@@ -7,7 +7,7 @@ option2="Element Matrix Client "
 # options to be displyed
 options="$option0\n$option1\n$option2"
 
-selected="$(echo -e "$options" | rofi -lines 3 -dmenu -p "Messaging Clients")"
+selected="$(echo -e "$options" | rofi -lines 3 -width 20 -dmenu -p " Chat")"
 case $selected in
     $option0)
 	discord & notify-send 'In this cyberpunk dystopia' 'chat reads you';;
