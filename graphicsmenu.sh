@@ -11,7 +11,7 @@ option6="Design Documents"
 # options passed into variable
 options="$option0\n$option1\n$option2\n$option3\n$option4\n$option5\n$option6"
 
-chosen="$(echo -e "$options" | rofi -lines 7 -dmenu -p "Graphics")"
+chosen="$(echo -e "$options" | rofi -lines 4 -columns 2 -dmenu -p "Graphics")"
 case $chosen in
     $option0)
         gimp;;
@@ -26,5 +26,5 @@ case $chosen in
    $option5)
        krita;;
     $option6)
-        urxvt -e ranger ~/Documents/Design\ Documents/;;
+        pcmanfm ~/Documents/DesignDocuments/;;
 esac
