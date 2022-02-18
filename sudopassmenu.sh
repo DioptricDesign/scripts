@@ -3,4 +3,6 @@ rofi -dmenu\
      -password\
      -i\
      -no-fixed-num-lines\
-     -p "Password"\
+     -p " Password"\
+     -width 20\
+
