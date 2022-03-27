@@ -1,6 +1,6 @@
 # Scripts
 ![scripts](https://github.com/DioptricDesign/scripts/blob/master/screens/scripts.png)\
-Utility scripts for the [qtile-chameleon](https://github.com/DioptricDesign/qtile-chameleon) project. Mostly rofi and dmenu scripts.
+Utility scripts for the [qtile-chameleon](https://www.dioptricdesign.com/2022/03/23/qtile-chameleon-qa/) project. Mostly rofi and dmenu scripts.
 ## More Information
 For more information about this project check out the blog posts. \
 [Qtile Chameleon](https://wp.me/p8j8Cr-qe)\
