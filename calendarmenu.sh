@@ -8,7 +8,7 @@ option2="Browse"
 # options to be displyed
 options="$option0\n$option1\n$option2"
 
-selected="$(echo -e "$options" | rofi -lines 3 -width 20 -dmenu -p " Calendar")"
+selected="$(echo -e "$options" | rofi -dmenu -p " Calendar")"
 case $selected in
     $option0)
       urxvt -e vdirsyncer sync;;
