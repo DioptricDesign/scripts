@@ -14,7 +14,7 @@ option4="1 Hour"
 
 options="$option0\n$option1\n$option2\n$option3\n$option4"
 
-selected="$(echo -e "$options" | rofi -lines 5 -width 20 -dmenu -p " Timers")"
+selected="$(echo -e "$options" | rofi -dmenu -p " Timers")"
 
 case $selected in
 
