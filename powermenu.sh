@@ -10,7 +10,7 @@ option4=" Shutdown"
 # options passed into variable
 options="$option0\n$option1\n$option2\n$option3\n$option4"
 
-chosen="$(echo -e "$options" | rofi -lines 5 -dmenu -width -30 -p " Power")"
+chosen="$(echo -e "$options" | rofi -dmenu -p " Power")"
 case $chosen in
     $option0)
         lock;;
