@@ -10,7 +10,7 @@ option1="Off"
 
 options="$option0\n$option1"
 
-selected="$(echo -e "$options" | rofi -lines 1 -columns 2 -width 20 -dmenu -p " Autolock")"
+selected="$(echo -e "$options" | rofi -dmenu -p " Autolock")"
 
 case $selected in
 
