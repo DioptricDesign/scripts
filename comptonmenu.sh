@@ -10,7 +10,7 @@ options="$option0\n$option1"
 selected="$(echo -e "$options" | rofi -dmenu -p " Picom")"
 case $selected in
     $option0)
-        compton --experimental-backends  & notify-send 'Woah Buddy.' 'Compositing on!' ;;
+        picom  & notify-send 'Woah Buddy.' 'Compositing on!' ;;
     $option1)
-        killall compton & notify-send 'You Killed Compton!.' 'Compositing off';;
+        killall picom & notify-send 'You killed picom!.' 'Compositing off';;
 esac
